@@ -1,5 +1,5 @@
 # Asad-dev
-### 👋 Hey, I'm Asad
+### 👋 Hey, I'm Asad Muneer
 I'm a CS student currently learning C programming and mastering Data Structures & Algorithms.
 
 - 🔭 I’m working on mini C projects
